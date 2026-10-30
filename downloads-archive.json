@@ -1,6 +1,44 @@
 {
   "releases": [
     {
+      "tag": "v1.0.81",
+      "date": "2026-10-30",
+      "assets": [
+        {
+          "name": "latest-mac.yml",
+          "count": 4
+        },
+        {
+          "name": "latest.yml",
+          "count": 2
+        },
+        {
+          "name": "Pip-Job-Search-1.0.81-arm64.zip",
+          "count": 2
+        },
+        {
+          "name": "Pip-Job-Search-1.0.81-arm64.zip.blockmap",
+          "count": 2
+        },
+        {
+          "name": "Pip-Job-Search-1.0.81-Setup.exe",
+          "count": 1
+        },
+        {
+          "name": "Pip-Job-Search-1.0.81-Setup.exe.blockmap",
+          "count": 2
+        },
+        {
+          "name": "Pip-Job-Search-mac.dmg",
+          "count": 1
+        },
+        {
+          "name": "Pip-Job-Search-Windows-Setup.exe",
+          "count": 1
+        }
+      ]
+    },
+    {
       "tag": "v1.0.80",
       "date": "2026-10-30",
       "assets": [
