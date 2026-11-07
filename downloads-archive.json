@@ -1,6 +1,350 @@
 {
   "releases": [
     {
+      "tag": "v2.0.36",
+      "date": "2026-11-07",
+      "assets": [
+        {
+          "name": "latest-mac.yml",
+          "count": 5
+        },
+        {
+          "name": "latest.yml",
+          "count": 2
+        },
+        {
+          "name": "Pip-Job-Search-2.0.36-arm64.dmg",
+          "count": 1
+        },
+        {
+          "name": "Pip-Job-Search-2.0.36-arm64.dmg.blockmap",
+          "count": 1
+        },
+        {
+          "name": "Pip-Job-Search-2.0.36-arm64.zip",
+          "count": 4
+        },
+        {
+          "name": "Pip-Job-Search-2.0.36-arm64.zip.blockmap",
+          "count": 5
+        },
+        {
+          "name": "Pip-Job-Search-2.0.36-Setup.exe",
+          "count": 2
+        },
+        {
+          "name": "Pip-Job-Search-2.0.36-Setup.exe.blockmap",
+          "count": 2
+        },
+        {
+          "name": "Pip-Job-Search-mac.dmg",
+          "count": 0
+        },
+        {
+          "name": "Pip-Job-Search-Windows-Setup.exe",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "tag": "v2.0.35",
+      "date": "2026-11-07",
+      "assets": [
+        {
+          "name": "latest-mac.yml",
+          "count": 7
+        },
+        {
+          "name": "latest.yml",
+          "count": 1
+        },
+        {
+          "name": "Pip-Job-Search-2.0.35-arm64.dmg",
+          "count": 1
+        },
+        {
+          "name": "Pip-Job-Search-2.0.35-arm64.dmg.blockmap",
+          "count": 1
+        },
+        {
+          "name": "Pip-Job-Search-2.0.35-arm64.zip",
+          "count": 6
+        },
+        {
+          "name": "Pip-Job-Search-2.0.35-arm64.zip.blockmap",
+          "count": 7
+        },
+        {
+          "name": "Pip-Job-Search-2.0.35-Setup.exe",
+          "count": 1
+        },
+        {
+          "name": "Pip-Job-Search-2.0.35-Setup.exe.blockmap",
+          "count": 1
+        },
+        {
+          "name": "Pip-Job-Search-mac.dmg",
+          "count": 0
+        },
+        {
+          "name": "Pip-Job-Search-Windows-Setup.exe",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "tag": "v2.0.34",
+      "date": "2026-11-07",
+      "assets": [
+        {
+          "name": "latest-mac.yml",
+          "count": 63
+        },
+        {
+          "name": "latest.yml",
+          "count": 4
+        },
+        {
+          "name": "Pip-Job-Search-2.0.34-arm64.dmg",
+          "count": 1
+        },
+        {
+          "name": "Pip-Job-Search-2.0.34-arm64.dmg.blockmap",
+          "count": 1
+        },
+        {
+          "name": "Pip-Job-Search-2.0.34-arm64.zip",
+          "count": 35
+        },
+        {
+          "name": "Pip-Job-Search-2.0.34-arm64.zip.blockmap",
+          "count": 31
+        },
+        {
+          "name": "Pip-Job-Search-2.0.34-Setup.exe",
+          "count": 3
+        },
+        {
+          "name": "Pip-Job-Search-2.0.34-Setup.exe.blockmap",
+          "count": 3
+        },
+        {
+          "name": "Pip-Job-Search-mac.dmg",
+          "count": 2
+        },
+        {
+          "name": "Pip-Job-Search-Windows-Setup.exe",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "tag": "v2.0.33",
+      "date": "2026-11-06",
+      "assets": [
+        {
+          "name": "latest-mac.yml",
+          "count": 93
+        },
+        {
+          "name": "latest.yml",
+          "count": 4
+        },
+        {
+          "name": "Pip-Job-Search-2.0.33-arm64.dmg",
+          "count": 1
+        },
+        {
+          "name": "Pip-Job-Search-2.0.33-arm64.dmg.blockmap",
+          "count": 1
+        },
+        {
+          "name": "Pip-Job-Search-2.0.33-arm64.zip",
+          "count": 54
+        },
+        {
+          "name": "Pip-Job-Search-2.0.33-arm64.zip.blockmap",
+          "count": 51
+        },
+        {
+          "name": "Pip-Job-Search-2.0.33-Setup.exe",
+          "count": 3
+        },
+        {
+          "name": "Pip-Job-Search-2.0.33-Setup.exe.blockmap",
+          "count": 2
+        },
+        {
+          "name": "Pip-Job-Search-mac.dmg",
+          "count": 1
+        },
+        {
+          "name": "Pip-Job-Search-Windows-Setup.exe",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "tag": "v2.0.32",
+      "date": "2026-11-06",
+      "assets": [
+        {
+          "name": "latest-mac.yml",
+          "count": 11
+        },
+        {
+          "name": "latest.yml",
+          "count": 1
+        },
+        {
+          "name": "Pip-Job-Search-2.0.32-arm64.dmg",
+          "count": 0
+        },
+        {
+          "name": "Pip-Job-Search-2.0.32-arm64.dmg.blockmap",
+          "count": 1
+        },
+        {
+          "name": "Pip-Job-Search-2.0.32-arm64.zip",
+          "count": 10
+        },
+        {
+          "name": "Pip-Job-Search-2.0.32-arm64.zip.blockmap",
+          "count": 10
+        },
+        {
+          "name": "Pip-Job-Search-2.0.32-Setup.exe",
+          "count": 1
+        },
+        {
+          "name": "Pip-Job-Search-2.0.32-Setup.exe.blockmap",
+          "count": 1
+        },
+        {
+          "name": "Pip-Job-Search-mac.dmg",
+          "count": 3
+        },
+        {
+          "name": "Pip-Job-Search-Windows-Setup.exe",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "tag": "v2.0.31",
+      "date": "2026-11-05",
+      "assets": [
+        {
+          "name": "latest-mac.yml",
+          "count": 232
+        },
+        {
+          "name": "latest.yml",
+          "count": 25
+        },
+        {
+          "name": "Pip-Job-Search-2.0.31-arm64.zip",
+          "count": 41
+        },
+        {
+          "name": "Pip-Job-Search-2.0.31-arm64.zip.blockmap",
+          "count": 43
+        },
+        {
+          "name": "Pip-Job-Search-2.0.31-Setup.exe",
+          "count": 6
+        },
+        {
+          "name": "Pip-Job-Search-2.0.31-Setup.exe.blockmap",
+          "count": 7
+        },
+        {
+          "name": "Pip-Job-Search-mac.dmg",
+          "count": 7
+        },
+        {
+          "name": "Pip-Job-Search-Windows-Setup.exe",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "tag": "v2.0.30",
+      "date": "2026-11-05",
+      "assets": [
+        {
+          "name": "latest-mac.yml",
+          "count": 23
+        },
+        {
+          "name": "latest.yml",
+          "count": 5
+        },
+        {
+          "name": "Pip-Job-Search-2.0.30-arm64.zip",
+          "count": 22
+        },
+        {
+          "name": "Pip-Job-Search-2.0.30-arm64.zip.blockmap",
+          "count": 18
+        },
+        {
+          "name": "Pip-Job-Search-2.0.30-Setup.exe",
+          "count": 2
+        },
+        {
+          "name": "Pip-Job-Search-2.0.30-Setup.exe.blockmap",
+          "count": 2
+        },
+        {
+          "name": "Pip-Job-Search-mac.dmg",
+          "count": 1
+        },
+        {
+          "name": "Pip-Job-Search-Windows-Setup.exe",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "tag": "v2.0.29",
+      "date": "2026-11-05",
+      "assets": [
+        {
+          "name": "latest-mac.yml",
+          "count": 60
+        },
+        {
+          "name": "latest.yml",
+          "count": 10
+        },
+        {
+          "name": "Pip-Job-Search-2.0.29-arm64.zip",
+          "count": 29
+        },
+        {
+          "name": "Pip-Job-Search-2.0.29-arm64.zip.blockmap",
+          "count": 25
+        },
+        {
+          "name": "Pip-Job-Search-2.0.29-Setup.exe",
+          "count": 6
+        },
+        {
+          "name": "Pip-Job-Search-2.0.29-Setup.exe.blockmap",
+          "count": 7
+        },
+        {
+          "name": "Pip-Job-Search-mac.dmg",
+          "count": 5
+        },
+        {
+          "name": "Pip-Job-Search-Windows-Setup.exe",
+          "count": 1
+        }
+      ]
+    },
+    {
       "tag": "v2.0.28",
       "date": "2026-11-05",
       "assets": [
