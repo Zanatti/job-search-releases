@@ -1,6 +1,44 @@
 {
   "releases": [
     {
+      "tag": "v2.1.1",
+      "date": "2026-11-13",
+      "assets": [
+        {
+          "name": "latest-mac.yml",
+          "count": 32
+        },
+        {
+          "name": "latest.yml",
+          "count": 6
+        },
+        {
+          "name": "Pip-Job-Search-2.1.1-arm64.zip",
+          "count": 25
+        },
+        {
+          "name": "Pip-Job-Search-2.1.1-arm64.zip.blockmap",
+          "count": 23
+        },
+        {
+          "name": "Pip-Job-Search-2.1.1-Setup.exe",
+          "count": 3
+        },
+        {
+          "name": "Pip-Job-Search-2.1.1-Setup.exe.blockmap",
+          "count": 4
+        },
+        {
+          "name": "Pip-Job-Search-mac.dmg",
+          "count": 1
+        },
+        {
+          "name": "Pip-Job-Search-Windows-Setup.exe",
+          "count": 1
+        }
+      ]
+    },
+    {
       "tag": "v2.1.0",
       "date": "2026-11-12",
       "assets": [
